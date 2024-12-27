@@ -2,7 +2,7 @@
 ----------
 # Description
 This project focuses on analyzing the electric vehicle (EV) market, utilizing key performance indicators to understand market size, growth, and technological advancements in electric vehicles. By parsing data from the "Electric Vehicle Dashboard" spreadsheet, the study derives insights into the distribution, adoption trends, and preferences.
-------
+---------
 # Objectives
 1) Assess the total landscape of electric vehicles including Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
 2) Gauge the technological advancements through the average electric range of vehicles.
